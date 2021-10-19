@@ -1,0 +1,185 @@
+Entity,Code,stringency_level
+Afghanistan,AFG,High
+Albania,ALB,High
+Algeria,DZA,Low
+Andorra,AND,Low
+Angola,AGO,Low
+Argentina,ARG,High
+Aruba,ABW,Low
+Australia,AUS,High
+Austria,AUT,High
+Azerbaijan,AZE,High
+Bahamas,BHS,Low
+Bahrain,BHR,High
+Bangladesh,BGD,Low
+Barbados,BRB,Low
+Belarus,BLR,Low
+Belgium,BEL,High
+Belize,BLZ,Low
+Benin,BEN,Low
+Bermuda,BMU,High
+Bhutan,BTN,High
+Bolivia,BOL,Low
+Bosnia and Herzegovina,BIH,High
+Botswana,BWA,Low
+Brazil,BRA,Low
+Brunei,BRN,High
+Bulgaria,BGR,High
+Burkina Faso,BFA,Low
+Burundi,BDI,Low
+Cambodia,KHM,High
+Cameroon,CMR,Low
+Canada,CAN,Low
+Cape Verde,CPV,High
+Central African Republic,CAF,Low
+Chad,TCD,Low
+Chile,CHL,Low
+China,CHN,High
+Colombia,COL,Low
+Congo,COG,Low
+Costa Rica,CRI,High
+Cote d'Ivoire,CIV,Low
+Croatia,HRV,High
+Cuba,CUB,Low
+Cyprus,CYP,High
+Czechia,CZE,High
+Democratic Republic of Congo,COD,Low
+Denmark,DNK,High
+Djibouti,DJI,Low
+Dominica,DMA,Low
+Dominican Republic,DOM,Low
+Ecuador,ECU,Low
+Egypt,EGY,Low
+El Salvador,SLV,High
+Eritrea,ERI,Low
+Estonia,EST,Low
+Eswatini,SWZ,Low
+Ethiopia,ETH,Low
+Faeroe Islands,FRO,Low
+Fiji,FJI,High
+Finland,FIN,High
+France,FRA,High
+Gabon,GAB,Low
+Gambia,GMB,Low
+Georgia,GEO,High
+Germany,DEU,High
+Ghana,GHA,Low
+Greece,GRC,High
+Greenland,GRL,Low
+Guam,GUM,Low
+Guatemala,GTM,High
+Guinea,GIN,Low
+Guyana,GUY,High
+Haiti,HTI,Low
+Honduras,HND,Low
+Hong Kong,HKG,High
+Hungary,HUN,High
+Iceland,ISL,Low
+India,IND,High
+Indonesia,IDN,High
+Iran,IRN,High
+Iraq,IRQ,High
+Ireland,IRL,Low
+Israel,ISR,High
+Italy,ITA,High
+Jamaica,JAM,High
+Japan,JPN,High
+Jordan,JOR,Low
+Kazakhstan,KAZ,Low
+Kenya,KEN,Low
+Kiribati,KIR,Low
+Kosovo,OWID_KOS,High
+Kuwait,KWT,High
+Kyrgyzstan,KGZ,High
+Laos,LAO,Low
+Latvia,LVA,Low
+Lebanon,LBN,High
+Lesotho,LSO,Low
+Liberia,LBR,Low
+Libya,LBY,Low
+Lithuania,LTU,Low
+Luxembourg,LUX,High
+Macao,MAC,High
+Madagascar,MDG,Low
+Malawi,MWI,Low
+Malaysia,MYS,High
+Mali,MLI,Low
+Malta,MLT,High
+Mauritania,MRT,Low
+Mauritius,MUS,Low
+Mexico,MEX,Low
+Moldova,MDA,High
+Monaco,MCO,High
+Mongolia,MNG,High
+Morocco,MAR,Low
+Mozambique,MOZ,Low
+Myanmar,MMR,Low
+Namibia,NAM,Low
+Nepal,NPL,High
+Netherlands,NLD,High
+New Zealand,NZL,High
+Nicaragua,NIC,Low
+Niger,NER,Low
+Nigeria,NGA,Low
+Norway,NOR,High
+Oman,OMN,High
+Pakistan,PAK,High
+Palestine,PSE,High
+Panama,PAN,Low
+Papua New Guinea,PNG,Low
+Paraguay,PRY,High
+Peru,PER,Low
+Philippines,PHL,High
+Poland,POL,High
+Portugal,PRT,High
+Puerto Rico,PRI,Low
+Qatar,QAT,High
+Romania,ROU,High
+Russia,RUS,High
+Rwanda,RWA,High
+San Marino,SMR,High
+Saudi Arabia,SAU,High
+Senegal,SEN,Low
+Serbia,SRB,High
+Seychelles,SYC,High
+Sierra Leone,SLE,Low
+Singapore,SGP,High
+Slovakia,SVK,High
+Slovenia,SVN,High
+Solomon Islands,SLB,Low
+Somalia,SOM,Low
+South Africa,ZAF,Low
+South Korea,KOR,High
+South Sudan,SSD,Low
+Spain,ESP,High
+Sri Lanka,LKA,Low
+Sudan,SDN,Low
+Suriname,SUR,Low
+Sweden,SWE,Low
+Switzerland,CHE,High
+Syria,SYR,High
+Taiwan,TWN,High
+Tajikistan,TJK,Low
+Tanzania,TZA,Low
+Thailand,THA,High
+Timor,TLS,Low
+Togo,TGO,Low
+Tonga,TON,Low
+Trinidad and Tobago,TTO,Low
+Tunisia,TUN,Low
+Turkey,TUR,High
+Turkmenistan,TKM,High
+Uganda,UGA,Low
+Ukraine,UKR,Low
+United Arab Emirates,ARE,High
+United Kingdom,GBR,Low
+United States,USA,High
+United States Virgin Islands,VIR,Low
+Uruguay,URY,Low
+Uzbekistan,UZB,Low
+Vanuatu,VUT,Low
+Venezuela,VEN,Low
+Vietnam,VNM,High
+Yemen,YEM,Low
+Zambia,ZMB,Low
+Zimbabwe,ZWE,Low
